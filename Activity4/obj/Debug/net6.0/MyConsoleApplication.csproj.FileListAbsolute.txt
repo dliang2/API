@@ -1,0 +1,15 @@
+C:\Users\liand\Desktop\API\Activity4\bin\Debug\net6.0\MyConsoleApplication.exe
+C:\Users\liand\Desktop\API\Activity4\bin\Debug\net6.0\MyConsoleApplication.deps.json
+C:\Users\liand\Desktop\API\Activity4\bin\Debug\net6.0\MyConsoleApplication.runtimeconfig.json
+C:\Users\liand\Desktop\API\Activity4\bin\Debug\net6.0\MyConsoleApplication.dll
+C:\Users\liand\Desktop\API\Activity4\bin\Debug\net6.0\ref\MyConsoleApplication.dll
+C:\Users\liand\Desktop\API\Activity4\bin\Debug\net6.0\MyConsoleApplication.pdb
+C:\Users\liand\Desktop\API\Activity4\obj\Debug\net6.0\MyConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\liand\Desktop\API\Activity4\obj\Debug\net6.0\MyConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liand\Desktop\API\Activity4\obj\Debug\net6.0\MyConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\liand\Desktop\API\Activity4\obj\Debug\net6.0\MyConsoleApplication.AssemblyInfo.cs
+C:\Users\liand\Desktop\API\Activity4\obj\Debug\net6.0\MyConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\liand\Desktop\API\Activity4\obj\Debug\net6.0\MyConsoleApplication.dll
+C:\Users\liand\Desktop\API\Activity4\obj\Debug\net6.0\ref\MyConsoleApplication.dll
+C:\Users\liand\Desktop\API\Activity4\obj\Debug\net6.0\MyConsoleApplication.pdb
+C:\Users\liand\Desktop\API\Activity4\obj\Debug\net6.0\MyConsoleApplication.genruntimeconfig.cache
