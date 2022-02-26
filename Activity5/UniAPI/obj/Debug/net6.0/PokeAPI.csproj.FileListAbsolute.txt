@@ -1,0 +1,17 @@
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\PokeAPI.exe
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\PokeAPI.deps.json
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\PokeAPI.runtimeconfig.json
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\PokeAPI.dll
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\ref\PokeAPI.dll
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\PokeAPI.pdb
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\PokeAPI.csproj.AssemblyReference.cache
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\PokeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\PokeAPI.AssemblyInfoInputs.cache
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\PokeAPI.AssemblyInfo.cs
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\PokeAPI.csproj.CoreCompileInputs.cache
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\PokeAPI.csproj.CopyComplete
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\PokeAPI.dll
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\ref\PokeAPI.dll
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\PokeAPI.pdb
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\PokeAPI.genruntimeconfig.cache

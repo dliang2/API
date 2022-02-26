@@ -1,0 +1,17 @@
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\UniAPI.exe
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\UniAPI.deps.json
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\UniAPI.runtimeconfig.json
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\UniAPI.dll
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\ref\UniAPI.dll
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\UniAPI.pdb
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\UniAPI.csproj.AssemblyReference.cache
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\UniAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\UniAPI.AssemblyInfoInputs.cache
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\UniAPI.AssemblyInfo.cs
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\UniAPI.csproj.CoreCompileInputs.cache
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\UniAPI.csproj.CopyComplete
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\UniAPI.dll
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\ref\UniAPI.dll
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\UniAPI.pdb
+C:\Users\liand\Desktop\API\Activity5\PokeAPI\PokeAPI\obj\Debug\net6.0\UniAPI.genruntimeconfig.cache
