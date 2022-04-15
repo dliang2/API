@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd9b9d1d-5b6e-40c4-a740-e7cf2b6082a0": {
+      "ProjectGuid": "dd9b9d1d-5b6e-40c4-a740-e7cf2b6082a0",
+      "DisplayName": "StoreFront",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
