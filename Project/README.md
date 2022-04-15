@@ -1,9 +1,9 @@
 # Darren Liang API Project
 
-### Create the SQL database via the script
+### Create the SQL database via script
 
-### Open the solution in Visual Studio
+### Open solution in Visual Studio
 
-### In appsettings.json, add the corresponding Username and Password to access the SQL database.
+### In appsettings.json, add corresponding Username and Password to access SQL database.
 
-### Run the server 
+### Run server 
