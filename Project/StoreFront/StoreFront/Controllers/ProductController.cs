@@ -30,16 +30,23 @@ namespace StoreFront.Controllers
 
         // GET: api/Product/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Product>> GetProduct(int id)
+        public async Task<ActionResult<Response>> GetProduct(int id)
         {
             var product = await _context.Products.FindAsync(id);
 
+            var response = new Response();
+
+            response.StatusCode = 200;
+            response.StatusDescription = "Success";
+            response.Products.Add(product);
+
             if (product == null)
             {
+                response.StatusCode = 400;
                 return NotFound();
             }
 
-            return product;
+            return response;
         }
 
         // PUT: api/Product/5

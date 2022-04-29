@@ -30,16 +30,23 @@ namespace StoreFront.Controllers
 
         // GET: api/Order/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Order>> GetOrder(int id)
+        public async Task<ActionResult<Response>> GetOrder(int id)
         {
             var order = await _context.Orders.FindAsync(id);
 
+            var response = new Response();
+
+            response.StatusCode = 200;
+            response.StatusDescription = "Success";
+            response.Orders.Add(order);
+
             if (order == null)
             {
+                response.StatusCode = 400;
                 return NotFound();
             }
 
-            return order;
+            return response;
         }
 
         // PUT: api/Order/5

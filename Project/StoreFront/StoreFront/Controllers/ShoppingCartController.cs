@@ -30,16 +30,23 @@ namespace StoreFront.Controllers
 
         // GET: api/ShoppingCart/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<ShoppingCart>> GetShoppingCart(int id)
+        public async Task<ActionResult<Response>> GetShoppingCart(int id)
         {
             var shoppingCart = await _context.ShoppingCart.FindAsync(id);
 
+            var response = new Response();
+
+            response.StatusCode = 200;
+            response.StatusDescription = "Success";
+            response.ShoppingCarts.Add(shoppingCart);
+
             if (shoppingCart == null)
             {
+                response.StatusCode = 400;
                 return NotFound();
             }
 
-            return shoppingCart;
+            return response;
         }
 
         // PUT: api/ShoppingCart/5
